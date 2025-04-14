@@ -1,0 +1,1 @@
+![births](fig.png)
